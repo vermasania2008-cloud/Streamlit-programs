@@ -1,5 +1,6 @@
 import streamlit as st
 st.title("Form")
+st.text("It is necessary to fill all the fields in the form to submit it")
 name=st.text_input("Enter your name")
 email=st.text_input("Enter your email")
 st.radio("Select your gender",["Male","Female"])
