@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 st.title("Dashboard")
 st.subheader("Overview of Student performance and analytics")
-df=pd.read_csv("student.csv",sep="\t")
+df=pd.read_csv("student.csv",sep=",")
 tab1,tab2=st.tabs(["Dashboard","Filters"])
 with tab1:
         col1,col2,col3,col4=st.columns(4) 
