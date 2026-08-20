@@ -1,0 +1,16 @@
+Roll No,Name,Age,City,Stream,Maths,English,Punjabi,Computer,Attendance (%),Pass Status,Grades
+101,Aarav Sharma,19,Amritsar,BCA,88,91,85,93,92,Pass,A
+102,Simran Kaur,20,Jalandhar,BSc AI&ML,82,89,87,90,88,Pass,A
+103,Arjun Singh,19,Patiala,BSc IT,72,78,75,80,76,Pass,B+
+104,Navneet Kaur,18,Amritsar,BCA,95,94,92,97,95,Pass,A+
+105,Rohan Kumar,20,Jalandhar,BSc AI&ML,78,83,80,84,81,Pass,B+
+106,Manpreet Singh,19,Patiala,BSc IT,65,70,68,73,69,Pass,B
+107,Isha Verma,18,Amritsar,BCA,90,92,88,94,91,Pass,A
+108,Karanpreet Singh,21,Jalandhar,BSc AI&ML,60,66,62,64,63,Pass,B
+109,Mehak Gupta,19,Patiala,BSc IT,52,55,50,58,54,Fail,C
+110,Harpreet Kaur,20,Amritsar,BCA,85,89,86,88,87,Pass,A
+111,Gurpreet Singh,19,Jalandhar,BSc AI&ML,70,75,72,76,73,Pass,B+
+112,Ananya Sharma,18,Patiala,BSc IT,94,96,95,98,96,Pass,A+
+113,Vikram Joshi,21,Amritsar,BCA,55,60,57,61,58,Fail,C+
+114,Jasleen Kaur,20,Jalandhar,BSc AI&ML,80,86,82,88,84,Pass,A-
+115,Rahul Mehta,19,Patiala,BSc IT,76,80,78,82,79,Pass,B+
